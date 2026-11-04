@@ -1,3 +1,3 @@
 # umar-07
-my first code
-Autor umar
+my first code.
+Autor-umar
